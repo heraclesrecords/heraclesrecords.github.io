@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Heracles Records</title>
+  <meta name="description" content="Heracles Records is a free desktop companion for COROS athletes: training analysis, an AI coach, plans and music for the watch.">
+  <link rel="icon" href="icon.png">
+  <style>
+    :root { --bg: #0e0f11; --surface: #17191c; --line: #2a2d31; --ink: #f1efe9; --muted: #a8a49a; --gold: #d8a74a; }
+    @media (prefers-color-scheme: light) {
+      :root { --bg: #f5f4f0; --surface: #ffffff; --line: #e2dfd7; --ink: #1c1b18; --muted: #5f5b52; --gold: #9a6b14; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    main { max-width: 720px; margin: 0 auto; padding: 56px 20px 72px; }
+    header { display: flex; align-items: center; gap: 18px; margin-bottom: 28px; }
+    header img { width: 72px; height: 72px; border-radius: 18px; }
+    h1 { margin: 0; font-size: 32px; line-height: 1.2; }
+    .tagline { margin: 4px 0 0; color: var(--muted); }
+    h2 { margin: 36px 0 10px; font-size: 20px; }
+    ul { padding-left: 20px; }
+    li { margin: 6px 0; }
+    a { color: var(--gold); }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0 8px; }
+    .button { display: inline-block; padding: 10px 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); text-decoration: none; font-weight: 600; }
+    .button.primary { border-color: var(--gold); }
+    footer { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="icon.png" alt="">
+    <div>
+      <h1>Heracles Records</h1>
+      <p class="tagline">A desktop companion for COROS athletes.</p>
+    </div>
+  </header>
+
+  <p>Heracles Records is a free, open-source app for Windows, macOS and Linux. Sign in
+  with your COROS account to read your training in depth, plan it with an AI coach, and
+  keep your watch stocked with music. Everything runs on your own computer.</p>
+
+  <div class="actions">
+    <a class="button primary" href="https://github.com/quochungse/HeraclesRecords/releases/latest">Download</a>
+    <a class="button" href="https://github.com/quochungse/HeraclesRecords">Source code</a>
+    <a class="button" href="privacy.html">Privacy policy</a>
+  </div>
+
+  <h2>What it does</h2>
+  <ul>
+    <li><strong>Training</strong> — every activity, with screens for running, cycling, hiking and strength, plus sleep, recovery and the places you have trained.</li>
+    <li><strong>Planning</strong> — your COROS workouts, plans and calendar, saved straight to your COROS account.</li>
+    <li><strong>Coach</strong> — an AI coach that reads your training data and drafts workouts and plans, using the AI account or key you choose.</li>
+    <li><strong>Music</strong> — tracks from YouTube, Spotify, Apple Music and podcasts, converted and copied to your watch over USB.</li>
+    <li><strong>Sync</strong> — optionally keeps your conversations, plans and preferences the same on each of your computers, through a folder in your own Google Drive.</li>
+  </ul>
+
+  <footer>
+    Heracles Records is an independent, unofficial app. It is not made, endorsed or supported by COROS.
+    COROS is a trademark of COROS Wearables Inc. ·
+    <a href="privacy.html">Privacy policy</a> ·
+    <a href="https://github.com/quochungse/HeraclesRecords/issues">Contact</a>
+  </footer>
+</main>
+</body>
+</html>
