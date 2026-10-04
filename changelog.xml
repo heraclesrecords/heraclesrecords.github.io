@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Heracles Records releases</title>
+    <link>https://heraclesrecords.github.io/</link>
+    <description>What changed in each release of Heracles Records.</description>
+    <language>en</language>
+    <item>
+      <title>Heracles Records 1.0.0</title>
+      <link>https://heraclesrecords.github.io/changelog/#1.0.0</link>
+      <guid isPermaLink="false">heracles-records-1.0.0</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;The first release of Heracles Records: a desktop companion for COROS athletes,
+for reading your training in depth, planning it with an AI coach, and keeping a
+record of everything you have achieved. It reads your watch through your COROS
+account; it is not made or endorsed by COROS.&lt;/p&gt;
+&lt;h3 id=&quot;training&quot;&gt;Training&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt;: today’s readiness, the week’s load and what is planned next, in one screen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activities&lt;/strong&gt;: every session COROS has, in one list with a detail pane, across all sports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Running, Cycling and Hiking&lt;/strong&gt;: a screen per sport, each reading what that sport is about: pace, efficiency and drift for runs (and climb for trail runs), power, IF, TSS and climbs for rides, ascent, moving time, rests and terrain for hikes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strength&lt;/strong&gt;: COROS strength sessions merged with Hevy workouts, with a muscle heat map.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sleep&lt;/strong&gt;: nights, naps, stages, heart rate and HRV, kept beyond the nine weeks COROS holds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;planning&quot;&gt;Planning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt;: scheduled workouts and completed activities by week or month; drag a session to move it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training Library&lt;/strong&gt;: your COROS workouts and plans: read, build, edit, duplicate and put plans on the calendar, saved straight to your COROS account.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coach&lt;/strong&gt;: an AI coach that reads your COROS data and answers in charts, drafts workouts and multi-week plans, and proposes calendar changes you apply one line at a time. Runs on your ChatGPT account, your Claude subscription, a Claude or OpenRouter API key, or a local model. Scheduled analyses can debrief new activities on their own, read-only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;your-journey&quot;&gt;Your journey&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hall of Records&lt;/strong&gt;: every milestone you have reached, month by month, and the Twelve Labours: twelve kinds of achievement in three stages each, with speed and VO₂max graded for your age and sex.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where you’ve been&lt;/strong&gt;: every place you trained, on a globe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;your-data&quot;&gt;Your data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sync through Google Drive&lt;/strong&gt;: conversations, plans and preferences stay the same on every computer signed in to the same COROS account. Sign-ins never leave the machine they were made on.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backup and restore&lt;/strong&gt;: one file you keep, restorable into the COROS account that made it.&lt;/li&gt;
+&lt;li&gt;Light and dark themes, a choice of accent colours, per-sport colours, metric and imperial units.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Report an issue&lt;/strong&gt; from Settings → About, with a redacted log of recent errors to copy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+  </channel>
+</rss>

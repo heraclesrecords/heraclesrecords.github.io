@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Set up Coach · Heracles Records</title>
+    <meta name="description" content="Connect the AI Coach runs on, choose what each conversation may read, and set its tone.">
+    <link rel="canonical" href="https://heraclesrecords.github.io/guide/set-up-coach">
+    <link rel="icon" type="image/png" href="/_astro/icon-256.j_NQJ_GV.png">
+    <link rel="alternate" type="application/rss+xml" title="Heracles Records releases" href="/changelog.xml">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Heracles Records">
+    <meta property="og:title" content="Set up Coach · Heracles Records">
+    <meta property="og:description" content="Connect the AI Coach runs on, choose what each conversation may read, and set its tone.">
+    <meta property="og:url" content="https://heraclesrecords.github.io/guide/set-up-coach">
+  <link rel="stylesheet" href="/_astro/Base.95fJDFDl.css">
+<style>.crumb[data-astro-cid-xgw6oyej]{margin:0 0 12px;font-size:14px}.crumb[data-astro-cid-xgw6oyej] a[data-astro-cid-xgw6oyej]{text-decoration:none}.pager[data-astro-cid-xgw6oyej]{border-top:1px solid var(--line);justify-content:space-between;gap:16px;margin-top:56px;padding-top:20px;font-size:15px;display:flex}.pager[data-astro-cid-xgw6oyej] a[data-astro-cid-xgw6oyej]{text-decoration:none}
+</style></head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">
+          <img src="/_astro/icon-256.j_NQJ_GV.png" alt="" width="28" height="28">
+          Heracles Records
+        </a>
+        <nav class="site-nav" aria-label="Site">
+          <a href="/activities">Activities</a><a href="/plan">Plan</a><a href="/coach">Coach</a><a href="/labours">Labours</a><a href="/guide/" aria-current="page">Guide</a><a href="/changelog/">Changelog</a>
+        </nav>
+        <a class="button primary header-download" href="/download">
+          Download
+        </a>
+      </div>
+    </header>
+
+    <main>
+      
+  <article class="prose guide" data-astro-cid-xgw6oyej>
+    <p class="crumb" data-astro-cid-xgw6oyej><a href="/guide/" data-astro-cid-xgw6oyej>Guide</a></p>
+    <h1 data-astro-cid-xgw6oyej>Set up Coach</h1>
+    <p class="meta" data-astro-cid-xgw6oyej>Connect the AI Coach runs on, choose what each conversation may read, and set its tone.</p>
+    <p>Coach needs an AI to run on. Open <strong>Settings → Connections → Coach Models → Manage</strong> and connect one or more of these.</p>
+<table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>What you need</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ChatGPT</strong></td>
+<td>Your ChatGPT account.</td>
+</tr>
+<tr>
+<td><strong>Claude subscription</strong></td>
+<td>A paid Claude plan, and Claude Code installed on the computer.</td>
+</tr>
+<tr>
+<td><strong>Claude API key</strong></td>
+<td>An Anthropic API key. Pay as you go.</td>
+</tr>
+<tr>
+<td><strong>OpenRouter</strong></td>
+<td>An OpenRouter API key.</td>
+</tr>
+<tr>
+<td><strong>Local model</strong></td>
+<td>Ollama or LM Studio running on the computer.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="chatgpt">ChatGPT</h2>
+<p>Press <strong>Sign in</strong>. Your browser opens ChatGPT’s sign-in page; once you are signed in, come back to the app. The models your account offers appear in the list.</p>
+<h2 id="claude-subscription">Claude subscription</h2>
+<ol>
+<li>Install Claude Code on the computer (see <a href="https://claude.com/claude-code">claude.com/claude-code</a>).</li>
+<li>In Coach Models, press <strong>Check</strong>. The app finds the installed Claude Code.</li>
+<li>Press <strong>Sign in</strong> and finish in your browser.</li>
+</ol>
+<p>The app signs in with a Claude login of its own, so a Claude account you use elsewhere on the computer, in a terminal for instance, is left alone. Heracles Records never sees your Claude password.</p>
+<h2 id="claude-api-key-or-openrouter">Claude API key or OpenRouter</h2>
+<p>Create a key in your <a href="https://console.anthropic.com">Anthropic console</a> or at <a href="https://openrouter.ai/keys">openrouter.ai</a>, paste it in, and press <strong>Save</strong> or <strong>Test</strong>. Keys are stored encrypted on this computer and never synced.</p>
+<h2 id="local-model">Local model</h2>
+<p>Start <a href="https://ollama.com">Ollama</a> or <a href="https://lmstudio.ai">LM Studio</a> and load a model, then press <strong>Detect</strong> in the Local model section. The app looks for a server on this computer and lists its models. Nothing you ask leaves the computer. How well a local model coaches depends on the model; a small one may struggle with the longer questions.</p>
+<h2 id="choosing-per-conversation">Choosing per conversation</h2>
+<p>Coach’s default AI is the one you pick in Coach Models. Each conversation can use a different one: the AI chip under the message box says which, and opens the choice for that conversation.</p>
+<p>The same conversation settings choose what Coach may read: switch off activities, sleep or anything else a conversation has no business seeing. What is switched off is withheld from Coach’s tools and from what it is told, not only from the prompt.</p>
+<h2 id="tone-and-instructions">Tone and instructions</h2>
+<p>The gear in Coach opens its settings:</p>
+<ul>
+<li><strong>Coach style</strong>: Friendly, Motivating, Neutral, Straight talk or No filter. It changes the tone only, never what goes on a workout or a plan.</li>
+<li><strong>Instructions</strong>: anything Coach should always know or do, in your own words.</li>
+<li><strong>Automatic analyses</strong>: pause them all, and set a monthly budget for what they may spend.</li>
+</ul>
+<h2 id="what-it-costs">What it costs</h2>
+<p>The app is free; the AI is billed by its provider. With ChatGPT or a Claude subscription it comes out of your plan’s usage. With an API key, every answer shows the model and the tokens it used, so you can see what a question cost.</p>
+
+    <nav class="pager" aria-label="More guides" data-astro-cid-xgw6oyej>
+      <a href="/guide/connect-coros" data-astro-cid-xgw6oyej>← Connect your COROS account</a>
+      <a href="/guide/sleep-and-health" data-astro-cid-xgw6oyej>Sleep and health data →</a>
+    </nav>
+  </article>
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav aria-label="Footer">
+          <a href="/download">Download</a>
+          <a href="/activities">Activities</a>
+          <a href="/plan">Plan</a>
+          <a href="/coach">Coach</a>
+          <a href="/labours">Labours</a>
+          <a href="/guide/">Guide</a>
+          <a href="/guide/faq">FAQ</a>
+          <a href="/changelog/">Changelog</a>
+          <a href="/about">About</a>
+          <a href="https://github.com/quochungse/HeraclesRecords">GitHub</a>
+          <a href="https://github.com/quochungse/HeraclesRecords/issues/new">Report an issue</a>
+          <a href="/privacy.html">Privacy policy</a>
+          <a href="https://buymeacoffee.com/quochungse">Buy me a coffee</a>
+        </nav>
+        <p>
+              Version 1.0.0 · 3 October 2026 · 
+              <a href="/changelog/">What's new</a>
+            </p>
+        <p>
+          Heracles Records is an independent, unofficial app. It is not made, endorsed or
+          supported by COROS. COROS is a trademark of COROS Wearables, Inc.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

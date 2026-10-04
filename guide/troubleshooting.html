@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Troubleshooting · Heracles Records</title>
+    <meta name="description" content="What to do when the app will not open, COROS signs you out, or a screen stays empty.">
+    <link rel="canonical" href="https://heraclesrecords.github.io/guide/troubleshooting">
+    <link rel="icon" type="image/png" href="/_astro/icon-256.j_NQJ_GV.png">
+    <link rel="alternate" type="application/rss+xml" title="Heracles Records releases" href="/changelog.xml">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Heracles Records">
+    <meta property="og:title" content="Troubleshooting · Heracles Records">
+    <meta property="og:description" content="What to do when the app will not open, COROS signs you out, or a screen stays empty.">
+    <meta property="og:url" content="https://heraclesrecords.github.io/guide/troubleshooting">
+  <link rel="stylesheet" href="/_astro/Base.95fJDFDl.css">
+<style>.crumb[data-astro-cid-xgw6oyej]{margin:0 0 12px;font-size:14px}.crumb[data-astro-cid-xgw6oyej] a[data-astro-cid-xgw6oyej]{text-decoration:none}.pager[data-astro-cid-xgw6oyej]{border-top:1px solid var(--line);justify-content:space-between;gap:16px;margin-top:56px;padding-top:20px;font-size:15px;display:flex}.pager[data-astro-cid-xgw6oyej] a[data-astro-cid-xgw6oyej]{text-decoration:none}
+</style></head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">
+          <img src="/_astro/icon-256.j_NQJ_GV.png" alt="" width="28" height="28">
+          Heracles Records
+        </a>
+        <nav class="site-nav" aria-label="Site">
+          <a href="/activities">Activities</a><a href="/plan">Plan</a><a href="/coach">Coach</a><a href="/labours">Labours</a><a href="/guide/" aria-current="page">Guide</a><a href="/changelog/">Changelog</a>
+        </nav>
+        <a class="button primary header-download" href="/download">
+          Download
+        </a>
+      </div>
+    </header>
+
+    <main>
+      
+  <article class="prose guide" data-astro-cid-xgw6oyej>
+    <p class="crumb" data-astro-cid-xgw6oyej><a href="/guide/" data-astro-cid-xgw6oyej>Guide</a></p>
+    <h1 data-astro-cid-xgw6oyej>Troubleshooting</h1>
+    <p class="meta" data-astro-cid-xgw6oyej>What to do when the app will not open, COROS signs you out, or a screen stays empty.</p>
+    <h2 id="macos-says-it-cannot-check-the-app">macOS says it cannot check the app</h2>
+<p>Open <strong>System Settings → Privacy &amp; Security</strong> and click <strong>Open Anyway</strong> beside Heracles Records. You are asked once.</p>
+<h2 id="macos-says-the-app-is-damaged">macOS says the app is damaged</h2>
+<p>The app is not damaged; macOS has quarantined a download from an unidentified developer. Run this in Terminal, then open the app again:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="sh"><code><span class="line"><span style="color:#B392F0">xattr</span><span style="color:#79B8FF"> -dr</span><span style="color:#9ECBFF"> com.apple.quarantine</span><span style="color:#9ECBFF"> "/Applications/Heracles Records.app"</span></span></code></pre>
+<h2 id="windows-smartscreen-warns-about-the-installer">Windows SmartScreen warns about the installer</h2>
+<p>Click <strong>More info → Run anyway</strong>. The warning is for apps without a paid code-signing certificate.</p>
+<h2 id="the-linux-appimage-does-nothing">The Linux AppImage does nothing</h2>
+<p>Make it executable first:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="sh"><code><span class="line"><span style="color:#B392F0">chmod</span><span style="color:#9ECBFF"> +x</span><span style="color:#9ECBFF"> HeraclesRecords-</span><span style="color:#79B8FF">*</span><span style="color:#9ECBFF">.AppImage</span></span></code></pre>
+<h2 id="coros-signed-me-out">COROS signed me out</h2>
+<p>COROS keeps one Training Hub session per account, so signing in elsewhere (the Training Hub website, or the app on another computer) ends this one. Sign in again from the banner or <strong>Settings → Connections → COROS account</strong>. More in <a href="/guide/connect-coros">Connect your COROS account</a>.</p>
+<h2 id="sleep-says-sleep-needs-mcp">Sleep says “Sleep needs MCP”</h2>
+<p>Sleep comes through COROS MCP, a separate connection. See <a href="/guide/sleep-and-health">Sleep and health data</a>.</p>
+<h2 id="coach-says-it-is-not-set-up">Coach says it is not set up</h2>
+<p>Coach needs an AI to run on: <a href="/guide/set-up-coach">Set up Coach</a>. If one was working and stopped, open <strong>Settings → Connections → Coach Models</strong>; a sign-in that expired or a usage limit shows there.</p>
+<h2 id="a-screen-shows-an-older-session-or-nothing-new">A screen shows an older session or nothing new</h2>
+<p>Use the refresh button on the screen. If COROS itself is slow to answer, the app shows what it already has and fills in the rest when COROS replies.</p>
+<h2 id="something-else">Something else</h2>
+<p>Open <strong>Settings → About → Report an issue</strong>. It offers the app’s recent error log to copy, with emails, paths and keys taken out, and a button that opens a new issue on GitHub. Paste the log in and say what you were doing.</p>
+
+    <nav class="pager" aria-label="More guides" data-astro-cid-xgw6oyej>
+      <a href="/guide/customise" data-astro-cid-xgw6oyej>← Make it yours</a>
+      <a href="/guide/faq" data-astro-cid-xgw6oyej>Questions and answers →</a>
+    </nav>
+  </article>
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav aria-label="Footer">
+          <a href="/download">Download</a>
+          <a href="/activities">Activities</a>
+          <a href="/plan">Plan</a>
+          <a href="/coach">Coach</a>
+          <a href="/labours">Labours</a>
+          <a href="/guide/">Guide</a>
+          <a href="/guide/faq">FAQ</a>
+          <a href="/changelog/">Changelog</a>
+          <a href="/about">About</a>
+          <a href="https://github.com/quochungse/HeraclesRecords">GitHub</a>
+          <a href="https://github.com/quochungse/HeraclesRecords/issues/new">Report an issue</a>
+          <a href="/privacy.html">Privacy policy</a>
+          <a href="https://buymeacoffee.com/quochungse">Buy me a coffee</a>
+        </nav>
+        <p>
+              Version 1.0.0 · 3 October 2026 · 
+              <a href="/changelog/">What's new</a>
+            </p>
+        <p>
+          Heracles Records is an independent, unofficial app. It is not made, endorsed or
+          supported by COROS. COROS is a trademark of COROS Wearables, Inc.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
