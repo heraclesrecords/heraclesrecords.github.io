@@ -2,12 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>Heracles Records releases</title>
-    <link>https://heraclesrecords.github.io/</link>
+    <link>https://heraclesrecords.com/</link>
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
       <title>Heracles Records 1.0.0</title>
-      <link>https://heraclesrecords.github.io/changelog/#1.0.0</link>
+      <link>https://heraclesrecords.com/changelog/#1.0.0</link>
       <guid isPermaLink="false">heracles-records-1.0.0</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
       <description>&lt;p&gt;The first release of Heracles Records: a desktop companion for COROS athletes,
