@@ -6,6 +6,25 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.0.1</title>
+      <link>https://heraclesrecords.com/changelog/#1.0.1</link>
+      <guid isPermaLink="false">heracles-records-1.0.1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Where you’ve been, redesigned&lt;/strong&gt;: the globe sits beside a list of places. Point at one in the list or on the globe and both follow; open it to see its figures, the sports trained there, visits by month and its activities. A place is now one province or state, no more than 25 km across, named by its region until the town is found. Country borders and coasts are drawn on the globe, and zooming in opens a street map of your routes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hall of Records&lt;/strong&gt;: each month has a clear heading and a long month folds behind “N more”. The Cattle of Geryon counts the same places Where you’ve been draws.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;: a &lt;code&gt;.deb&lt;/code&gt; for Debian and Ubuntu beside the AppImage. The AppImage still updates itself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coach&lt;/strong&gt;: tokens read from the prompt cache count as a tenth, so a turn’s total and the monthly budget match what was spent. Settings tell you when a newer Claude Code is available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sleep shows up as soon as COROS MCP is connected, without pressing Refresh.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.0.0</title>
       <link>https://heraclesrecords.com/changelog/#1.0.0</link>
       <guid isPermaLink="false">heracles-records-1.0.0</guid>
