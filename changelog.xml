@@ -6,6 +6,21 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.0.2</title>
+      <link>https://heraclesrecords.com/changelog/#1.0.2</link>
+      <guid isPermaLink="false">heracles-records-1.0.2</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt;: “Your physique” replaces the recovery ring: a wireframe of your body, shaped by your personal data and lit up to today’s recovery in a colour that runs from red to green with it. Weekly Activity shows the week’s totals beside its chart.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.0.1</title>
       <link>https://heraclesrecords.com/changelog/#1.0.1</link>
       <guid isPermaLink="false">heracles-records-1.0.1</guid>
