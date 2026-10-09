@@ -6,6 +6,22 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.0.3</title>
+      <link>https://heraclesrecords.com/changelog/#1.0.3</link>
+      <guid isPermaLink="false">heracles-records-1.0.3</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cycling&lt;/strong&gt;: your cycling VO₂max from COROS, on the Cycling screen and for Coach.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sync&lt;/strong&gt;: faster and lighter: only what changed is sent and fetched. Update every computer you sync: older versions stop syncing once one machine runs 1.0.3.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.0.2</title>
       <link>https://heraclesrecords.com/changelog/#1.0.2</link>
       <guid isPermaLink="false">heracles-records-1.0.2</guid>
