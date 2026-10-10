@@ -6,6 +6,24 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.1.0</title>
+      <link>https://heraclesrecords.com/changelog/#1.1.0</link>
+      <guid isPermaLink="false">heracles-records-1.1.0</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Multi languages supported&lt;/strong&gt;  In your language, on every screen. Heracles Records now speaks 13 languages, pick one under Settings: English, Vietnamese, Japanese, Korean, Simplified Chinese, Spanish, Brazilian Portuguese, French, German, Italian, Russian, Indonesian and Thai.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coach&lt;/strong&gt; - can search the web for things your data does not hold, such as a race’s course and cut-offs, and names the pages it used. It is off until you switch on Web for a conversation. What a conversation may read now sits under Permissions in its AI sheet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt; - the Sleep card shows the past seven days, and upcoming workouts list today and tomorrow in full.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Coach’s plan outline lists every session of a week, and a library workout goes into a plan or the calendar correctly.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.0.3</title>
       <link>https://heraclesrecords.com/changelog/#1.0.3</link>
       <guid isPermaLink="false">heracles-records-1.0.3</guid>
