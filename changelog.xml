@@ -6,6 +6,23 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.1.1</title>
+      <link>https://heraclesrecords.com/changelog/#1.1.1</link>
+      <guid isPermaLink="false">heracles-records-1.1.1</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Updates&lt;/strong&gt; - an update downloads in the background and no longer closes the app the moment it lands. The Settings button on the rail shows its progress, and once it is ready you choose Restart now or Later. On Windows it installs without the setup wizard; on Linux the window no longer freezes while the update installs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt; - the panels sit side by side on narrower windows, and a full 100% recovery draws your physique in sky blue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Coach’s analysis presets fill the role and playbook in the language on screen.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.1.0</title>
       <link>https://heraclesrecords.com/changelog/#1.1.0</link>
       <guid isPermaLink="false">heracles-records-1.1.0</guid>
