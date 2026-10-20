@@ -6,6 +6,26 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.2.0</title>
+      <link>https://heraclesrecords.com/changelog/#1.2.0</link>
+      <guid isPermaLink="false">heracles-records-1.2.0</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Running efficiency&lt;/strong&gt; - how much speed a road or track run bought for the heart rate it cost, on your COROS VO₂max scale and against your usual from the six weeks before, with how well you held it to the end. It is on the Running screen and on each run’s page, and replaces Aerobic efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time in zones&lt;/strong&gt; - the run, ride and hike pages and an opened Strength session show the time in every zone, as COROS scored it. A run switches between heart rate and pace.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance chart&lt;/strong&gt; - every surge and stop is drawn rather than averaged away, and the chart can split into two plots on one clock: what you produced above, what it cost below. Grade-adjusted pace is called Effort pace, as COROS calls it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training labels&lt;/strong&gt; - every run and ride is named by what it trained: Recovery, Aerobic, Tempo, Threshold, VO2 Max or Anaerobic, beside its shape, such as Intervals 6 × 1000 m, strides or a long run. The label is on Activities, on each Running and Cycling row and on the session’s page, which says why it was given.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Workouts and plans on COROS&lt;/strong&gt; - written the way COROS’s own web app writes them: a strength session shows its muscle map in COROS, steps are named on the watch in your language, and moving a plan’s session on the calendar keeps it in its plan.&lt;/li&gt;
+&lt;li&gt;The weekly volume charts no longer write the same number twice on their axis.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.1.2</title>
       <link>https://heraclesrecords.com/changelog/#1.1.2</link>
       <guid isPermaLink="false">heracles-records-1.1.2</guid>
