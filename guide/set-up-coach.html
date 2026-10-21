@@ -56,7 +56,7 @@
     <p class="crumb" data-astro-cid-xgw6oyej><a href="/guide/" data-astro-cid-xgw6oyej>Guide</a></p>
     <h1 data-astro-cid-xgw6oyej>Set up Coach</h1>
     <p class="meta" data-astro-cid-xgw6oyej>Connect the AI Coach runs on, choose what each conversation may read, and set its tone.</p>
-    <p>Coach needs an AI to run on. Open <strong>Settings → Connections → Coach Models → Manage</strong> and connect one or more of these.</p>
+    <p>Coach needs an AI to run on. Open <strong>Settings → Connections → AI Model Providers → Manage</strong> and connect one or more of these.</p>
 <table>
 <thead>
 <tr>
@@ -92,7 +92,7 @@
 <h2 id="claude-subscription">Claude subscription</h2>
 <ol>
 <li>Install Claude Code on the computer (see <a href="https://claude.com/claude-code">claude.com/claude-code</a>).</li>
-<li>In Coach Models, press <strong>Check</strong>. The app finds the installed Claude Code.</li>
+<li>In AI Model Providers, press <strong>Check</strong>. The app finds the installed Claude Code.</li>
 <li>Press <strong>Sign in</strong> and finish in your browser.</li>
 </ol>
 <p>The app signs in with a Claude login of its own, so a Claude account you use elsewhere on the computer, in a terminal for instance, is left alone. Heracles Records never sees your Claude password.</p>
@@ -101,7 +101,7 @@
 <h2 id="local-model">Local model</h2>
 <p>Start <a href="https://ollama.com">Ollama</a> or <a href="https://lmstudio.ai">LM Studio</a> and load a model, then press <strong>Detect</strong> in the Local model section. The app looks for a server on this computer and lists its models. Nothing you ask leaves the computer. How well a local model coaches depends on the model; a small one may struggle with the longer questions.</p>
 <h2 id="choosing-per-conversation">Choosing per conversation</h2>
-<p>Coach’s default AI is the one you pick in Coach Models. Each conversation can use a different one: the AI chip under the message box says which, and opens the choice for that conversation.</p>
+<p>Coach’s default AI is the one you pick in AI Model Providers. Each conversation can use a different one: the AI chip under the message box says which, and opens the choice for that conversation.</p>
 <p>The same conversation settings choose what Coach may read: switch off activities, sleep or anything else a conversation has no business seeing. What is switched off is withheld from Coach’s tools and from what it is told, not only from the prompt.</p>
 <p><strong>Web</strong> is there too, off until you switch it on for a conversation. With it on, Coach can search the internet when a question needs something your data does not hold, such as a race’s date, course or cut-offs, and it links the pages it used. The search runs through the AI you chose: on a Claude or ChatGPT subscription it is part of the plan, with an Anthropic or OpenRouter key each search is billed to that account, and a local model cannot search at all. Automatic analyses never search.</p>
 <h2 id="tone-and-instructions">Tone and instructions</h2>
