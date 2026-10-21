@@ -6,6 +6,42 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.2.1</title>
+      <link>https://heraclesrecords.com/changelog/#1.2.1</link>
+      <guid isPermaLink="false">heracles-records-1.2.1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;The biggest Coach update since 1.0. A conversation is now something you work in rather than scroll through: take a question back, rewrite it, keep a turn out of Coach’s reading or branch off to try another idea, and every session Coach shows you reads the way its own page does. Fewer clicks between asking, reading and deciding.&lt;/p&gt;
+&lt;h3 id=&quot;coach-a-conversation-you-can-shape&quot;&gt;Coach: a conversation you can shape&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Take it back&lt;/strong&gt; - delete a question together with Coach’s answer, and what Coach made in it if you choose. When the conversation’s summary still mentions it, the summary can be rewritten on the spot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ask it again&lt;/strong&gt; - edit your last question and send it; Coach answers afresh. A question that got no answer says why right under it and offers Retry, and every message can be copied.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep it off the record&lt;/strong&gt; - hide a turn and it stays on screen while Coach no longer reads it. Show it again whenever you like.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch off&lt;/strong&gt; - start a new conversation from any answer, carrying everything up to that point with the same AI and sources, while what Coach made stays where it was made.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Find your way back&lt;/strong&gt; - in a long conversation a column of marks at the edge lists your questions. Press one, or use Alt with the up and down arrows, to jump straight to it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;coach-sessions-read-in-depth&quot;&gt;Coach: sessions read in depth&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Every channel on one chart&lt;/strong&gt; - a session’s card draws its Performance chart as the session’s own page does, two channels at a time with a chip each.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time in zones&lt;/strong&gt; - a card shows the time in each heart-rate zone, as COROS scored it and named in your zone model. A lap table of five laps or more starts folded, one click from open.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strength and Hybrid Fitness&lt;/strong&gt; - heart rate is drawn under the sets, numbered by exercise, and a set scheme reads “4 × 11–14” or “3 × 0:45”.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recovery trends&lt;/strong&gt; - the trend card now follows HRV and resting heart rate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Model Providers&lt;/strong&gt; - Coach Models has a clearer name. “AI for this conversation” lists the providers that can answer, and Manage providers opens the rest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;across-the-app&quot;&gt;Across the app&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lap tables&lt;/strong&gt; - a structured workout’s laps are headed by its parts (Warm Up, Training, Cool Down) and a recovery between repeats is marked Rest, on the run, ride and hike pages and on Activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance chart&lt;/strong&gt; - each channel but stride ratio wears the colour it has in the COROS app, toned so lines drawn together stay apart for colour-blind eyes too, and the form figures take COROS’s names: Ground time, Stride height, Stride ratio. Power on a run is Running power.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; - a scheduled session is edited in the same workout builder as Create workout.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notices&lt;/strong&gt; - a quiet card centred over the screen: at the bottom for what you just did, at the top when the app speaks unasked. It waits while the pointer is on it, and the same notice again restarts it instead of stacking a copy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strength&lt;/strong&gt; - a plank or any set held for a time is no longer dropped, a Hybrid Fitness rest is no longer counted as a set, and two exercises COROS numbered alike stay apart. Sessions are read again once after the update.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.2.0</title>
       <link>https://heraclesrecords.com/changelog/#1.2.0</link>
       <guid isPermaLink="false">heracles-records-1.2.0</guid>
