@@ -6,6 +6,27 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.3.0</title>
+      <link>https://heraclesrecords.com/changelog/#1.3.0</link>
+      <guid isPermaLink="false">heracles-records-1.3.0</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;A redesign, and the biggest refinement pass the app has had. Every screen was taken back to three ideas: &lt;strong&gt;refined&lt;/strong&gt;, so nothing is drawn that does not need to be; &lt;strong&gt;intuitive&lt;/strong&gt;, so a screen shows what you picked and nothing else; and &lt;strong&gt;convenient&lt;/strong&gt;, so the thing you want is one press away.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strength&lt;/strong&gt; - one thing at a time: a session, or the weeks around it, never both on top of each other. Records sit in the exercises they were set in, each session shows the muscles it worked, and the body figure turns slowly until you pick a side.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activities&lt;/strong&gt; - fewer boxes and lighter rows. The sport filter is the bar that shows your mix, and a session opens on what matters first.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; - sessions are small cards you read at a glance, and a press anywhere in a day opens it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Light theme&lt;/strong&gt; - redrawn across the app: white cards on a cool grey page, gold where something is filled, and the accent kept for words.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sleep and recovery&lt;/strong&gt; - Coach reads your recovery from the heart rate you slept at, which says far more about a night than COROS’s resting heart rate, and the Sleep screen shows it beside HRV and the score.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;One quiet scrollbar across the app.&lt;/li&gt;
+&lt;li&gt;Improve app performance and stability.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.2.2</title>
       <link>https://heraclesrecords.com/changelog/#1.2.2</link>
       <guid isPermaLink="false">heracles-records-1.2.2</guid>
