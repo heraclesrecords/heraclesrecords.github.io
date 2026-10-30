@@ -6,6 +6,18 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.4.3</title>
+      <link>https://heraclesrecords.com/changelog/#1.4.3</link>
+      <guid isPermaLink="false">heracles-records-1.4.3</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;A smoother way to sign in to COROS.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sign-in&lt;/strong&gt; - a streamlined sign-in flow.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.4.1</title>
       <link>https://heraclesrecords.com/changelog/#1.4.1</link>
       <guid isPermaLink="false">heracles-records-1.4.1</guid>
