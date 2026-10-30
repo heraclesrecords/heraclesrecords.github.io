@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://heraclesrecords.com/</loc></url>
   <url><loc>https://heraclesrecords.com/download</loc></url>
-  <url><loc>https://heraclesrecords.com/activities</loc></url>
-  <url><loc>https://heraclesrecords.com/plan</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/running</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/cycling</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/hiking</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/strength/</loc></url>
+  <url><loc>https://heraclesrecords.com/activities/strength/training-load</loc></url>
+  <url><loc>https://heraclesrecords.com/plan/</loc></url>
+  <url><loc>https://heraclesrecords.com/plan/calendar</loc></url>
+  <url><loc>https://heraclesrecords.com/plan/plans</loc></url>
+  <url><loc>https://heraclesrecords.com/plan/workouts</loc></url>
+  <url><loc>https://heraclesrecords.com/plan/exercises</loc></url>
   <url><loc>https://heraclesrecords.com/coach</loc></url>
   <url><loc>https://heraclesrecords.com/labours</loc></url>
   <url><loc>https://heraclesrecords.com/guide/</loc></url>
