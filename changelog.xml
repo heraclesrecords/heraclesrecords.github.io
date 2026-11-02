@@ -6,6 +6,18 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.4.5</title>
+      <link>https://heraclesrecords.com/changelog/#1.4.5</link>
+      <guid isPermaLink="false">heracles-records-1.4.5</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Improve app performance and stability.&lt;/p&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix a crash on muscle details cellcause by missing Heracles TL data.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.4.4</title>
       <link>https://heraclesrecords.com/changelog/#1.4.4</link>
       <guid isPermaLink="false">heracles-records-1.4.4</guid>
