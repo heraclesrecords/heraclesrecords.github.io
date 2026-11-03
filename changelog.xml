@@ -6,6 +6,24 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.4.6</title>
+      <link>https://heraclesrecords.com/changelog/#1.4.6</link>
+      <guid isPermaLink="false">heracles-records-1.4.6</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Improve coach response and optimize token costs.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Coach asks&lt;/strong&gt; - when how a session felt, what you ate or drank, pain or why a session was cut would change its answer, Coach asks instead of noting it as missing. Up to three questions come as one card: pick a choice or type your own answer under each, and send them together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coach costs less&lt;/strong&gt; - Claude Code and ChatGPT now read a conversation back from the prompt cache, so a follow-up no longer pays for the whole conversation again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A planned workout’s distance and time are the whole session’s on every screen - the workout view, the builder, the Training Library, the plan reader and Coach’s cards - the same figures as the Calendar, so a long run with timed steps no longer reads shorter than it is. A sum of only some steps is named as one.&lt;/li&gt;
+&lt;li&gt;Applying a revised Coach proposal dismisses the earlier cards it replaces.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.4.5</title>
       <link>https://heraclesrecords.com/changelog/#1.4.5</link>
       <guid isPermaLink="false">heracles-records-1.4.5</guid>
