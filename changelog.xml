@@ -6,6 +6,27 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.4.7</title>
+      <link>https://heraclesrecords.com/changelog/#1.4.7</link>
+      <guid isPermaLink="false">heracles-records-1.4.7</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Make an image of any session to post, and planned figures that say how they are known.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create and Share image&lt;/strong&gt; - Create image on a run, ride, hike, swim or strength session, makes a picture of it to post.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Planned figures say how they are known&lt;/strong&gt; - a planned distance or time written in the steps is stated as it is, one worked out from a pace or a heart rate reads “≈7.80 km”, and one short of a step COROS counts as nothing (a warm-up with no target, an open step, the time of a swim’s lengths) reads “7.80+ km”. A figure that would be mostly a guess is not stated at all, so a 200 m warm-up before two hours with no target no longer reads as 200 m. Overview, the Calendar, the Training Library, the workout builder and Coach mark them alike, and a week’s or a plan’s total is as certain as its least certain part.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A workout not yet saved to COROS states what COROS will once it is: a step with no target, power or cadence counts as COROS counts it, so a Coach proposal no longer reads shorter than the same workout on the Calendar. A ride, a swim and a workout with an open step have their figures before they are saved too.&lt;/li&gt;
+&lt;li&gt;A library workout counts each of its repeats.&lt;/li&gt;
+&lt;li&gt;Reps and climbing cover no ground, so a HYROX session’s stations no longer hide its distance of running.&lt;/li&gt;
+&lt;li&gt;A Calendar card with no figure to show is blank instead of “–”.&lt;/li&gt;
+&lt;li&gt;Training load heatmap: today’s card stays empty until you train, instead of reading Rest.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.4.6</title>
       <link>https://heraclesrecords.com/changelog/#1.4.6</link>
       <guid isPermaLink="false">heracles-records-1.4.6</guid>
