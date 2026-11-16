@@ -6,6 +6,28 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.5.1</title>
+      <link>https://heraclesrecords.com/changelog/#1.5.1</link>
+      <guid isPermaLink="false">heracles-records-1.5.1</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Mentor’s Calendar changes say what they change, and its conversations cost fewer tokens.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mentor’s Calendar changes card says what a proposal changes&lt;/strong&gt; - a line that updates or replaces a session states what it changes, and its dialog opens on Changes: the workout as it stood and the one Mentor would write, side by side, step against step. A revised proposal marks each line as new, changed or as before, and says what it left out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot;&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentor’s conversations cost fewer tokens: what Mentor has made no longer makes a provider re-read the whole conversation on every turn, and its workout drafts take about 1,200 tokens less a round.&lt;/li&gt;
+&lt;li&gt;The 80/20 mark on Overview’s intensity bars says what it is when you hover it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentor: a review of one session comes back with its chart.&lt;/li&gt;
+&lt;li&gt;Overview: the week chart counts a strength session at Heracles Training Load once its sets are read, as the Strength block under it already did.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.5.0</title>
       <link>https://heraclesrecords.com/changelog/#1.5.0</link>
       <guid isPermaLink="false">heracles-records-1.5.0</guid>
