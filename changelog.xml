@@ -6,6 +6,32 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.5.2</title>
+      <link>https://heraclesrecords.com/changelog/#1.5.2</link>
+      <guid isPermaLink="false">heracles-records-1.5.2</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Running Fitness and VO2 Max draw COROS’s dial, Personal Records adds 3K and 15K, and a plan session you trained is counted as trained.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Running Fitness and VO2 Max draw COROS’s dial&lt;/strong&gt; - on the Personal screen, Running Fitness shows COROS’s total on the half-circle dial its Training Hub draws, with the four abilities on bars cut at the same levels and the pace range COROS prints under each. VO2 Max takes the same dial and rates your value for your age and sex on The Cooper Institute’s five ratings, Poor to Superior, instead of fixed bands that called 47 “Peak” for everyone. LTHR, max heart rate and threshold pace stay on the Thresholds card above.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Records adds 3K and 15K&lt;/strong&gt; - the two metric records COROS keeps besides 1K, 5K, 10K, half and marathon, each with its history. Your runs are read again for them while the Hall of Records is open.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update a Mentor plan and your calendar together&lt;/strong&gt; - a Mentor plan on your calendar offers Update plan &amp;amp; calendar, or Update plan only, as the Training Library’s save asks. The sessions still ahead on your calendar follow from today; if the calendar cannot be updated, the plan stays saved and Mentor says so.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot;&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentor puts the recovery chart above an answer only when the answer is about recovery, not whenever it read your trends, and decides on every read of your zones whether the HR zones chart belongs with the answer.&lt;/li&gt;
+&lt;li&gt;Long Mentor conversations roll their summary less often, so fewer turns wait for it.&lt;/li&gt;
+&lt;li&gt;The VO2 Max dial tells a screen reader its value.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Records: the 12 weeks and the half year were the wrong way round.&lt;/li&gt;
+&lt;li&gt;Training Library: a session trained on its day counts as done even when it went much harder than planned or its name was typed with a different space, and the activity COROS linked to a session is the one counted.&lt;/li&gt;
+&lt;li&gt;Training Library: a plan whose run is over is listed under Done, once, with Mentor’s mark, including a run COROS still calls running past its last day. Such a run no longer carries the calendar mark or reads On calendar, saving its plan no longer asks to update the calendar, and Mentor offers a plain Update.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.5.1</title>
       <link>https://heraclesrecords.com/changelog/#1.5.1</link>
       <guid isPermaLink="false">heracles-records-1.5.1</guid>
