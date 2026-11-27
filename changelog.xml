@@ -6,6 +6,29 @@
     <description>What changed in each release of Heracles Records.</description>
     <language>en</language>
     <item>
+      <title>Heracles Records 1.6.1</title>
+      <link>https://heraclesrecords.com/changelog/#1.6.1</link>
+      <guid isPermaLink="false">heracles-records-1.6.1</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Climbing gets a screen of its own, and the sidebar shows the sports you train.&lt;/p&gt;
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s new&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Climbing&lt;/strong&gt; - a new screen for indoor climbs, bouldering, outdoor climbs and multi-pitch, after Swimming in the sidebar. It shows this week in climbs, your hardest send and how much you sent over the last weeks, the onsight grade set in the COROS app, weekly volume by kind, a grade pyramid of what you sent first go, sent after working it or only tried, your grade over time, your time on the wall, and every session with a strip of its climbs. A session’s page draws each climb where it fell in the session, by grade, time on the wall or height, with the heart rate below and the climbs one by one. Every grade is shown in the scale chosen in the COROS app’s climb settings, converted through COROS’s own table, and a route’s grade is never set against a boulder’s.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climbing on Overview&lt;/strong&gt; - a section like the other sports’ when you climbed in the last four weeks: climbs this week and over four weeks, the hardest send, the share sent and the grades you climbed most.&lt;/li&gt;
+&lt;li&gt;Personal Records adds the hardest route and the hardest boulder you sent, the Timeline marks your first climb, and a climbing session has Create image like every other sport.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot;&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The sidebar shows a sport’s screen once you have a session of that sport, rather than all six from the start. Strength stays while Hevy is connected. What you turn on or off under Settings → Navigation → Sport screens stays as you set it.&lt;/li&gt;
+&lt;li&gt;The sidebar’s History heading reads Logbook.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Heart rate, Sleep and Stress level stay on screen while the app signs back in to COROS at start-up (after a sign-in on another computer), instead of showing the connect panel for a few seconds, and a day that is still loading says so instead of showing the figures from before.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Heracles Records 1.6.0</title>
       <link>https://heraclesrecords.com/changelog/#1.6.0</link>
       <guid isPermaLink="false">heracles-records-1.6.0</guid>
